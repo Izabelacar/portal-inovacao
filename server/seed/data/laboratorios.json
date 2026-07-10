@@ -1,0 +1,1446 @@
+[
+  {
+    "nome": "Biotecanimal - Biotecnologia Animal",
+    "sobre": "Controle de banco de sêmen de bovinos e bubalinos, estudos em fisiologia reprodutiva de bovinos, bubalinos e equinos, pesquisa em Inseminação artificial em tempo fixo e transferência de embriões.",
+    "cidade": "Santarém",
+    "responsavel": "Kedson Neves",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Melhoramento Genético",
+      "Zootecnia",
+      "biotecnologia reprodutiva"
+    ],
+    "tecnicas": [
+      "Fertilização in vitro",
+      "Inseminação Artificial",
+      "transferencia de embrioes"
+    ],
+    "areaPrincipal": "Melhoramento Genético",
+    "nEquip": 1
+  },
+  {
+    "nome": "CAII - Central Analítica II",
+    "sobre": "A Central Analítica II da Universidade Federal do Oeste do Pará tem como objetivo promover a formação de recursos humanos qualificados na região oeste do Pará com o desenvolvimento de produtos e serviços com bioativos e bioprodutos.",
+    "cidade": "Santarém",
+    "responsavel": "FLAVIA ADRIANA SANTOS REBELLO",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Analises Quimicas",
+      "Bioquimica",
+      "Compostos Bioativos",
+      "Cromatografia"
+    ],
+    "tecnicas": [
+      "11. Cromatografia liquída de alta eficiência (HPLC) (Shimadzu))",
+      "Análise por cromatografia gasosa acoplada a espectroscopia de massas",
+      "Citômetro de Fluxo",
+      "Difração de raios-X (DRX)",
+      "Espectrofotômetro de infravermelho com transformada de Fourier",
+      "liofilizador"
+    ],
+    "areaPrincipal": "Analises Quimicas",
+    "nEquip": 8
+  },
+  {
+    "nome": "CDHBA - Centro de Documentação Histórica do Baixo Amazonas",
+    "sobre": "O Centro de Documentação Histórica do Baixo Amazonas (CDHBA) é um espaço de memória que abriga documentos de caráter judicial e cartorário de Santarém e outras cidades do Baixo Amazonas. O objetivo institucional do CDHBA é fomentar a pesquisa, aliada à ações de extensão e de ensino, que contribua para a construção do conhecimento histórico da região. Nesse s",
+    "cidade": "Santarém",
+    "responsavel": "Felipe Tavares de Moraes",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Educação Patrimonial",
+      "Ensino de História",
+      "História Social",
+      "História contemporânea",
+      "História da Amazônia"
+    ],
+    "tecnicas": [
+      "Arquivologia",
+      "Catalogação de acervo",
+      "Digitalização de documentos",
+      "Higienização mecânica de documentos"
+    ],
+    "areaPrincipal": "Educação Patrimonial",
+    "nEquip": 6
+  },
+  {
+    "nome": "CISCT - Centro Integrado de Soluções Computacionais Tapajós",
+    "sobre": "O Centro Integrado de Soluções Computacionais Tapajós (CISCT) tem como objetivo apoiar projetos de pesquisa em diversas áreas, incluindo informática educacional, inteligência artificial, business intelligence e sistemas de informação, entre outras correlacionadas. Ele fornece infraestrutura de TIC para hospedagem e processamento de sistemas por meio de edita",
+    "cidade": "Santarém",
+    "responsavel": "Rafael Rodrigo dos Santos Miranda",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Processamento de dados",
+      "Sistemas computacionais"
+    ],
+    "tecnicas": [
+      "Hospedagem de sistemas computacionais",
+      "Segurança de redes e dados"
+    ],
+    "areaPrincipal": "Processamento de dados",
+    "nEquip": 3
+  },
+  {
+    "nome": "CTCCA - Centro Tecnológico de Computação Científica Aplicada",
+    "sobre": "Centro Tecnológico de Computação Científica Aplicada - Cluster Tapajós: localizado nas dependências do Data Center da Ufopa e junto à equipe do Centro de Tecnologia da Informação e Comunicação da Ufopa (Ctic), esta unidade atua como centro tecnológico de computação científica aplicada com alta capacidade de processamento e armazenamento de dados, fornecendo ",
+    "cidade": "Santarém",
+    "responsavel": "FLAVIA ADRIANA SANTOS REBELLO",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Biodiversidade",
+      "Ciências da computação",
+      "Engenharias",
+      "Interdisciplinaridade",
+      "analise atmosférica"
+    ],
+    "tecnicas": [
+      "Computação de alto desempenho"
+    ],
+    "areaPrincipal": "Biodiversidade",
+    "nEquip": 1
+  },
+  {
+    "nome": "COL ICTIO-UFOPA - Coleção Ictiológica",
+    "sobre": "A Coleção Ictiológica tem como finalidade catalogar e armazenar exemplares de peixes provenientes de levantamentos da diversidade ictiofaunística realizados em diversos projetos de pesquisa acadêmicos e institucionais desenvolvidos na Universidade Federal do Oeste do Pará.",
+    "cidade": "Santarém",
+    "responsavel": "André Luiz Colares Canto",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Curadoria"
+    ],
+    "tecnicas": [
+      "Curadoria de coleções científicas",
+      "Fotografia de lotes tombados",
+      "Registro de material para tombamento",
+      "diafanização"
+    ],
+    "areaPrincipal": "Curadoria",
+    "nEquip": 6
+  },
+  {
+    "nome": "FR - Fábrica de Ração",
+    "sobre": "Laboratório possui equipamentos para produção de ração animal, a qual pode ser destinada para ensino, extensão e pesquisa, através do desenvolvimento de novas formulações com ingredientes alternativos regionais.",
+    "cidade": "Santarém",
+    "responsavel": "Michelle Midori Sena Fugimura",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Aquicultura sustentável",
+      "Bioeconomia",
+      "Produção Animal Sustentável",
+      "Sociobioeconomia",
+      "Área: Biotecnologia / Subárea: Bioeconomia."
+    ],
+    "tecnicas": [
+      "Formulação de ração animal",
+      "Preparo dos ingredientes para produção de ração animal",
+      "Produção de ração animal"
+    ],
+    "areaPrincipal": "Aquicultura sustentável",
+    "nEquip": 3
+  },
+  {
+    "nome": "FEU - Fazenda Experimental da UFOPA",
+    "sobre": "Consiste em um espaço com animais para experimentação animal, dentre os naimias possui animais canulados. Nesse laboratório pode ser realizada pesquisas com nutrição de ruminantes e qualidade de forregens.",
+    "cidade": "Santarém",
+    "responsavel": "Ronaldo de Lima",
+    "instituicao": "UFOPA",
+    "areas": [
+      "3. Nutrição Animal e Produção Sustentável",
+      "Alimentação e nutrição animal"
+    ],
+    "tecnicas": [
+      "Análise de digestibilidade in vitro e in sintu",
+      "Análise de matéria seca em forragem e demais alimentos",
+      "Análise de nitrogênio/proteína"
+    ],
+    "areaPrincipal": "3. Nutrição Animal e Produção Sustentável",
+    "nEquip": 2
+  },
+  {
+    "nome": "LEG - GEOQUÍMICA & HIDROGEOQUÍMICA - LABORATÓRIO DE ESTUDOS GEOQUÍMICOS",
+    "sobre": "O Laboratório de Geoquímica e Hidrogeoquímica tem como missão possibilitar a produção de dados geoquímicos, mediante as atividades práticas e análises relacionadas à geoquímica e hidrogeoquímica nos diversos campos do conhecimento científico .O laboratório tem como finalidade contribuir para o ensino prático do curso de Geologia e de outros cursos da Ufopa. ",
+    "cidade": "Santarém",
+    "responsavel": "Fernanda Souza do Nascimento",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Análises de Qualidade Ambiental",
+      "Geologia ambiental",
+      "Geoquímica Ambiental",
+      "Geoquímica Analítica",
+      "Geoquímica Inorgânica",
+      "Área Ambiental"
+    ],
+    "tecnicas": [
+      "Absorção atômica com forno de grafite",
+      "Análise Granulométrica (Peneiramento)",
+      "Coleta e preparo de amostras",
+      "Ensaios de Lixiviação",
+      "Ensaios por Absorção Atômica Chama"
+    ],
+    "areaPrincipal": "Análises de Qualidade Ambiental",
+    "nEquip": 5
+  },
+  {
+    "nome": "HSTM - Herbário da Universidade Federal do Oeste do Pará",
+    "sobre": "O Herbário HSTM é uma coleção biológica de plantas, de caráter multiusuário, que oferece suporte a atividades de ensino, pesquisa e extensão, atendendo laboratórios institucionais e outras instituições. Seu acervo é composto por exsicatas de material botânico coletado principalmente em Santarém e região, constituindo um importante registro da flora do Oeste ",
+    "cidade": "Santarém",
+    "responsavel": "Aline Matos de Souza",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Revisão e atualização nomenclatural de nomes científicos.",
+      "Sistemática vegetal",
+      "botânica",
+      "taxonomia botânica"
+    ],
+    "tecnicas": [
+      "Coleta e herborização de Plantas",
+      "Identificação taxonômia de plantas",
+      "armazenamento das exsicatas",
+      "salvaguarda de material testemunho"
+    ],
+    "areaPrincipal": "Revisão e atualização nomenclatural de nomes científicos.",
+    "nEquip": 1
+  },
+  {
+    "nome": "LAMBDA - Laboratório de Agrometeorologia com Modelagem da Bioeconomia e Diagnóstico Ambiental",
+    "sobre": "Este laboratório realiza atividades de pesquisa e de extensão desenvolvidas por docentes vinculados ao grupo de pesquisa IBAMA - Interação Biosfera-Atmosfera e Micrometeorologia da Amazônia. No mesmo funciona a Sala de Situação Meteorológica do Tapajós, que gerencia sítios experimentais espalhados pela Amazônia para a validação de dados de satélite, subsidia",
+    "cidade": "Santarém",
+    "responsavel": "GABRIEL COSTA",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Agroclimatologia",
+      "Aplicações meteorológicas e climatológicas",
+      "Bioclimatologia",
+      "Interações clima-vegetação-distúrbios",
+      "Microclimatologia",
+      "Micrometeorologia",
+      "Pesquisa, desenvolvimento e inovação em meteorologia e climatologia solar e eólica."
+    ],
+    "tecnicas": [
+      "Balanço de carbono em agroecossistemas",
+      "Balanço de gases estufa (CH4, CO2, H2O) em florestas tropicais",
+      "Correlação de Vórtices Turbulentos",
+      "balanço de energia"
+    ],
+    "areaPrincipal": "Agroclimatologia",
+    "nEquip": 6
+  },
+  {
+    "nome": "LAC - Laboratório de Análises Clínicas",
+    "sobre": "Laboratório pertencente ao curso de Farmácia do Instituto de Saúde Coletiva (ISCO) da Universidade Federal do Oeste do Pará (Ufopa), estruturado para realizar aulas práticas de graduação e pós-graduação, pesquisa, extensão e inovação na área biomédica relacionadas as análises clínicas e doenças infecciosas e parasitárias de interesse médico envolvendo agente",
+    "cidade": "Santarém",
+    "responsavel": "Luana Lorena Silva Rodrigues",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Doenças infecciosas e parasitárias",
+      "Epidemiologia",
+      "Hematologia Clinica",
+      "Microbiologia Médica",
+      "Saúde Pública",
+      "Virologia"
+    ],
+    "tecnicas": [
+      "Análises microbiológicas - cultura de bactérias",
+      "Análises sanguíneas e bioquímicas do sangue.",
+      "Biologia Molecular (PCR)",
+      "Elisa",
+      "Extração de DNA/RNA de tecidos e de microrganismos",
+      "Gasometria",
+      "hemograma"
+    ],
+    "areaPrincipal": "Doenças infecciosas e parasitárias",
+    "nEquip": 4
+  },
+  {
+    "nome": "LABAM - Laboratório de Análises Multifuncionais",
+    "sobre": "O laboratório oportuniza ações na área de Morfofisiologia aplicada (animal e vegetal). Neste espaço é possível realizar dissecções e posterior processamento histológico padrão em parafina e resina, montagem de lâminas permanente até a observação e captura de imagem e morfometria. O laboratório atende a demandas de ensino de graduação, pós-graduação e apoio a",
+    "cidade": "Santarém",
+    "responsavel": "Lenise Vargas Flores Silva",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Análise de estruturas em zoologia, botânica, histologia",
+      "Análise morfológica"
+    ],
+    "tecnicas": [
+      "Análises Histologicas",
+      "Processamento em historesina",
+      "Processamento padrão em parafina",
+      "histomorfometria",
+      "ontogenia e histologia"
+    ],
+    "areaPrincipal": "Análise de estruturas em zoologia, botânica, histologia",
+    "nEquip": 1
+  },
+  {
+    "nome": "LABTAP - LABORATÓRIO DE APOIO À PESQUISA DO TAPAJÓS",
+    "sobre": "O Laboratório de Apoio à Pesquisa do Tapajós da UEPA-Campus XII visa incentivar a produção de conhecimento científico/tecnológico, por meio do desenvolvimento de pesquisas experimentais e dar suporte às atividades de extensão e de prestação de serviços (assessorias científicas especializadas, laudos, análises e exames diversos). Também, destina-se a servir d",
+    "cidade": "Santarém",
+    "responsavel": "ADJANNY ESTELA SOUZA",
+    "instituicao": "UEPA",
+    "areas": [
+      "Saúde Coletiva"
+    ],
+    "tecnicas": [
+      "Avaliacão do risco cardiovascular",
+      "Diagnóstico da síndrome metabólica",
+      "Diagnóstico de covid-19",
+      "Dosagem bioquímica no sangue"
+    ],
+    "areaPrincipal": "Saúde Coletiva",
+    "nEquip": 1
+  },
+  {
+    "nome": "LABARQ - Laboratório de Arqueologia Curt Nimuendajú",
+    "sobre": "O Laboratório de Arqueologia Curt Nimuendajú foi criado em 2010, ele faz parte do curso de Arqueologia na Ufopa, recebendo discentes de graduação, pós-graduação e pesquisadores da UFOPA e de outras instituições. É a única Instituição de Guarda Permanente reconhecida pelo IPHAN no Oeste Paraense. Aqui são desenvolvidos trabalhos de pesquisa-ensino-extensão. O",
+    "cidade": "Santarém",
+    "responsavel": "Anne Rapp Py-Daniel",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Arqueologia Comunitária",
+      "Arqueologia Funerária",
+      "Arqueologia Pré-colonial",
+      "Arqueologia da Paisagem",
+      "Bioarqueologia",
+      "Etnoarqueologia",
+      "Reconstituição paleoambiental",
+      "Turismo, Cultura, Arqueologia e Educação"
+    ],
+    "tecnicas": [
+      "Análise de amostras por microscopia",
+      "Curadoria de coleções",
+      "Escavação Arqueológica"
+    ],
+    "areaPrincipal": "Arqueologia Comunitária",
+    "nEquip": 4
+  },
+  {
+    "nome": "Labac - Laboratório de Bacteriologia",
+    "sobre": "Laboratório de Bacteriologia (Labac) realizar e apoiar diversos projetos envolvendo a Microbiologia Ambiental, de modo especial, pesquisas que envolva a Bacteriologia. Conta com a participação de alunos de outros cursos, além de alunos de Pós-Graduação dos cursos de Especialização em Saneamento e Tecnologia Hídrica (PPGSantech), Mestrado em Biociências (PPGB",
+    "cidade": "Santarém",
+    "responsavel": "Graciene Fernandes",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Ciências biologicas",
+      "Microbiologia Aplicada"
+    ],
+    "tecnicas": [
+      "Analise da Diversidade, Concentração e Composição Bacteriana Ruminal",
+      "Ensaios antimicrobianos in vitro",
+      "Microbiologia ambiental",
+      "análise da microbiota",
+      "estudo da resistência aos antimicrobianos em bactérias isoladas de amostras clinicas animais"
+    ],
+    "areaPrincipal": "Ciências biologicas",
+    "nEquip": 1
+  },
+  {
+    "nome": "LBS - Laboratório de Biogeoquímica do Solo",
+    "sobre": "O Laboratório de Biogeoquímica do Solo desempenha um papel fundamental no suporte às atividades de ensino, pesquisa e extensão. Ele possibilita a realização de análises químicas, físicas e biológicas do solo, com o objetivo de diagnosticar as características dos solos da região. Sua estrutura serve também como base para acadêmicos e pesquisadores realizarem ",
+    "cidade": "Santarém",
+    "responsavel": "IOLANDA REIS",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Análises de metais pesados",
+      "Ciência do solo",
+      "Fertilidade do solo",
+      "Física do solo"
+    ],
+    "tecnicas": [
+      "3. Técnica de obtenção do carbono da biomassa microbiana do solo (C-BMS);",
+      "Análise Granulométrica de Agregados",
+      "Análise de carbono orgânico total",
+      "Análise de fertilidade do solo",
+      "Análise de solo",
+      "Respiração basal do solo",
+      "análise granulometria"
+    ],
+    "areaPrincipal": "Análises de metais pesados",
+    "nEquip": 3
+  },
+  {
+    "nome": "LBA - LABORATÓRIO DE BIOLOGIA AMBIENTAL",
+    "sobre": "Atuar nos campos de pesquisa avançada, ensino (Visitas Técnicas/Aulas Práticas, Estágio Supervisionado,TCC, Dissertações e Teses), prestação de serviços e extensão comunitária nas áreas de Recursos Hídricos, Limnologia, Qualidade da Água, Manejo de Bacias Hidrográficas, Biogeoquímica, Ecologia de Ecossistemas Aquáticos e Biomonitoramento.",
+    "cidade": "Santarém",
+    "responsavel": "Jose Reinaldo Pacheco Peleja",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Biomonitoramento de ambientes Aquáticos",
+      "Ecologia de Ecossistemas",
+      "Ecotoxicologia aquática",
+      "Hidrosedimentologia",
+      "Limnologia",
+      "Manejo de bacias hidrográficas",
+      "Qualidade de água"
+    ],
+    "tecnicas": [
+      "ANÁLISE DE ASSOREAMENTO, HIDROSEDIMENTOLOGIA, VAZÃO E COTA DE CORPOS D’ÁGUA",
+      "ANÁLISE DE CONTAMINAÇÃO DE POR METAL PESADO -Mercúrio Total",
+      "Análise da qualidade da água",
+      "Caracterização de Efluentes",
+      "INVENTÁRIO ICTIOLÓGICO e BIOMONITORAMENTO DE COMUNIDADES DE PEIXE"
+    ],
+    "areaPrincipal": "Biomonitoramento de ambientes Aquáticos",
+    "nEquip": 3
+  },
+  {
+    "nome": "lABbbeX - LABORATÓRIO DE BIOPROSPECÇÃO E BIOLOGIA EXPERIMENTAL",
+    "sobre": "O LabBBEx (Laboratório de Bioprospecção e Biologia Experimental) oferece uma infraestrutura multiusuária completa para pesquisa, abrangendo extração, análise química, testes biológicos, análises de Mercúrio Total (Hg) e uma área de experimentação animal. O laboratório adota uma política de acesso compartilhado para pesquisadores de diferentes áreas e institu",
+    "cidade": "Santarém",
+    "responsavel": "RICARDO DE OLIVEIRA",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Biologia",
+      "Ciências da saúde",
+      "Meio Ambiente"
+    ],
+    "tecnicas": [
+      "11. Cromatografia liquída de alta eficiência (HPLC) (Shimadzu))",
+      "Análise de metais por espectrometria",
+      "Cromatografia de Fase Gasosa acoplado à Espectrometria de Massas (GC/MS QP 2010S-Plus)",
+      "Ensaios de inflamabilidade",
+      "analgesia",
+      "análises microbiológicas",
+      "comportamento animal"
+    ],
+    "areaPrincipal": "Biologia",
+    "nEquip": 10
+  },
+  {
+    "nome": "LBPM - Laboratório de Biotecnologia de Plantas Medicinais",
+    "sobre": "O laboratório de Biotecnologia de Plantas Medicinais, tem como coordenadora a Prof.ª Dra. Elaine Oliveira, Doutora em Ciências Agrícolas e vasta experiência em pesquisas envolvendo plantas medicinais, além de contar com uma equipe multiprofissional, composta por alunos da graduação e pós-graduação. Com esta equipe, o laboratório tem desenvolvido projetos de ",
+    "cidade": "Santarém",
+    "responsavel": "ELAINE DE OLIVEIRA",
+    "instituicao": "UFOPA",
+    "areas": [
+      "19. Biotecnologia Aplicada à Indústria",
+      "Ciências biológicas"
+    ],
+    "tecnicas": [
+      "Análise Química de Extratos Vegetais",
+      "Análises físico-químicas",
+      "Ensaios biológicos",
+      "Extração de óleos essenciais"
+    ],
+    "areaPrincipal": "19. Biotecnologia Aplicada à Indústria",
+    "nEquip": 5
+  },
+  {
+    "nome": "LaBot - Laboratório de Botânica",
+    "sobre": "O LaBot atende demandas de ensino, pesquisa, extensão e inovação, com ênfase em Anatomia Vegetal. Desde 2019 promove capacitações e orientações de discentes em dois níveis de Ensino, a saber: Educação Básica (Ensino Médio) e Educação Superior (graduação e pós-graduação). Atua no combate à “Impercepção Botânica”, em especial na Amazônia, e contribui na elabor",
+    "cidade": "Santarém",
+    "responsavel": "Advanio Inácio Siqueira Silva",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Botânica",
+      "Botânica aplicada",
+      "Coleção Botânica destinada a pesquisa"
+    ],
+    "tecnicas": [
+      "Anatomia e Fisiologia Vegetal",
+      "Apoio a pesquisas de Botânica, Ecologia e Restauração Florestal",
+      "Apoio a projetos de pesquisa e extensão em Botânica, Ecologia e Restauração Florestal",
+      "Coleção botânica",
+      "Ensino de botânica",
+      "Histologia básica",
+      "Morfoanatomia",
+      "Secagem de amostras botânicas",
+      "anatomia vegetal descritiva"
+    ],
+    "areaPrincipal": "Botânica",
+    "nEquip": 13
+  },
+  {
+    "nome": "LACA - Laboratório de Computação Aplicada",
+    "sobre": "O Laboratório de Computação Aplicada (LACA) da UFOPA foi formado em 2018 e está sediado no coração da floresta Amazônica. O LACA reúne pesquisadores(as) e estudantes interessados em investigar, desenvolver e aplicar soluções computacionais nos mais variados domínios, incluindo Mercados Eletrônicos, Educação, Saúde, Bioinformática, Cidades Inteligentes e Agro",
+    "cidade": "Santarém",
+    "responsavel": "Fábio Manoel França Lobato",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Análise de Redes Sociais",
+      "Gestão de Relacionamento com Cliente",
+      "Governo Eletrônico",
+      "Internet das Coisas (IoT)",
+      "Justiça 4.0",
+      "Mercados Eletrônicos",
+      "Tecnologias Sociais",
+      "cidades inteligentes"
+    ],
+    "tecnicas": [
+      "Análise de Dados e Inteligência Artificial",
+      "Análise de desempenho computacional",
+      "Bioinformática",
+      "Desenvolver sistemas de inteligência computacional",
+      "Desenvolvimento de Sistemas de Informação",
+      "Tecnologias educativas",
+      "redes sociais"
+    ],
+    "areaPrincipal": "Análise de Redes Sociais",
+    "nEquip": 1
+  },
+  {
+    "nome": "LABJOY - Laboratório de Conservação e Biodiversidade",
+    "sobre": "O Labjoy dedica-se à pesquisa, ensino e serviços que visam a preservação da biodiversidade amazônica, com foco especial na mitigação de impactos ambientais e na recuperação de áreas degradadas. Foca na aplicação de conhecimentos gerados nas instituições de pesquisa para fomentar o desenvolvimento sustentável na Amazônia. Assim, desenvolve protocolos de avali",
+    "cidade": "Santarém",
+    "responsavel": "Iracenir Andrade dos Santos",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Avaliação ambiental",
+      "Avaliação de Impacto Ambiental",
+      "Conservação da biodiversidade",
+      "Recuperação de áreas degradadas"
+    ],
+    "tecnicas": [
+      "Avaliação de impactos ambientais",
+      "Recuperação de Áreas Degradadas",
+      "Sensoriamento remoto aplicado a pesquisas de sensibilidade de biomas terrestres e aquáticos a possíveis impactos ambientais decorrentes das atividades da indústria do petróleo",
+      "conservação da biodiversidade"
+    ],
+    "areaPrincipal": "Avaliação ambiental",
+    "nEquip": 4
+  },
+  {
+    "nome": "LEIPAI - Laboratório de Ecologia do Ictioplâncton e Pesca de Águas Interiores",
+    "sobre": "Este laboratório iniciou suas atividades em 2014, possibilitando aos estudantes da graduação e pós-graduação vivenciarem experiências significativas de ensino, pesquisa e aprendizagem técnico-científica voltadas aos aspectos da ecologia de ovos e larvas de peixes tropicais e pesca de águas interiores, visando o manejo e a conservação dos recursos ícticos na ",
+    "cidade": "Santarém",
+    "responsavel": "Diego Zacardi",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Biologia e ecologia de peixes",
+      "Ecologia e taxonomia do ictioplâncton",
+      "pesca e recursos pesqueiros"
+    ],
+    "tecnicas": [
+      "Análise, processamento e interpretação de dados ictioplanctônicos",
+      "Análises limnológicas básicas",
+      "Coleta, triagem, identificação e armazenamento de material biológico (ovos, larvas e juvenis de peixes)"
+    ],
+    "areaPrincipal": "Biologia e ecologia de peixes",
+    "nEquip": 6
+  },
+  {
+    "nome": "LECAn - Laboratório de Ecologia e Comportamento Animal",
+    "sobre": "O LECAn incorpora a coleção herpetológica da UFOPA no bloco 13 do campus Tapajós da UFOPA. No LECAn atuam os pesquisadores Dr. Alfredo Santos-JR (curador), Dra. Síria Ribeiro a Me. Brenna Muniz (técnica), além de alunos de graduação e pós-graduação. A coleção armazena 3.300 espécimes de anfíbios (Pará) e possui 2 estereomicroscópio com câmera acoplada (anali",
+    "cidade": "Santarém",
+    "responsavel": "Alfredo Pedroso dos Santos Júnior",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Apoiar as atividades de ensino, pesquisa e extensão da UFOPA , Campus Tapajós de Santarém.",
+      "Dar suporte com o auxílio do material depositado na coleção herpetológica da UFOPA para palestras educacionais, trabalhos de conclusão de curso, dissertações de mestrado, teses de doutorado e pesquisa de pesquisadores de outros estados.",
+      "Estudo de sistemática e taxonômia de anfíbios e répteis."
+    ],
+    "tecnicas": [
+      "Análise da morfologia externa e orgãos digestório e reprodutor de espécimes de anfíbios e répteis com auxílio de microscópio e lupa.",
+      "Colecionamento de espécimes de anfíbios e répteis em via úmida junto a coleção didática do LECan",
+      "Colecionamento de espécimes de anfíbios e répteis em via úmida junto a coleção herpetológica da UFOPA",
+      "Coleta de macroparasitas de anfíbios e répteis com auxílio de esteromicroscópio."
+    ],
+    "areaPrincipal": "Apoiar as atividades de ensino, pesquisa e extensão da UFOPA , Campus Tapajós de Santarém.",
+    "nEquip": 1
+  },
+  {
+    "nome": "LEDEVO - Laboratório de Educação e Evolução Prof. Horacio Schneider",
+    "sobre": "O espaço é utilizado para o desenvolvimento de duas linhas de pesquisa: (1) educação em Ciências e Biologia, onde são realizados trabalhos que vão desde a caracterização do ensino de Ciências e Biologia na região até o desenvolvimento de recursos didáticos; (2) Genética e Evolução animal, nesta linha são obtidos dados moleculares (sequências de DNA, por exem",
+    "cidade": "Santarém",
+    "responsavel": "GABRIEL IKETANI COELHO",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Análises filogenéticas",
+      "Ensino de Biologia",
+      "Estudos relacionados a variabilidade genética em animais",
+      "Genética de microrganismos",
+      "Genética e Biodiversidade",
+      "Genética e Evolução",
+      "Sequenciamento de Nova Geração",
+      "sequenciamento genômico"
+    ],
+    "tecnicas": [
+      "9. Técnica de PCR para os estudos de biodiversidade;",
+      "Análise bioinformática dos dados de NGS",
+      "Coleta de amostras e extração de DNA",
+      "Extração de DNA ambiental",
+      "Genômica e sequenciamento de DNA em larga escala",
+      "Sequenciamento Illumina",
+      "Sequenciamento NGS"
+    ],
+    "areaPrincipal": "Análises filogenéticas",
+    "nEquip": 1
+  },
+  {
+    "nome": "LABER - Laboratório de Energias Renováveis",
+    "sobre": "O LABER é uma unidade de Laboratório para que atua na área de Energias Renováveis. Tem atuado com a instalação de sistemas de de geração de energia em comunidades Isoladas da região Oeste do Pará. Tem dois projetos de parceria para atendimento de demandas de energia das comunidades ribeirinhas nas bacias dos rios Tapajós, Arapiuns e Amazonas.",
+    "cidade": "Santarém",
+    "responsavel": "Lázaro Silva",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Aproveitamento de energia solar fotovoltaica e térmica",
+      "Aproveitamentos Hidroenergéticos",
+      "Conversão de Energia Solar",
+      "monitoramento de sistemas fotovoltaicos"
+    ],
+    "tecnicas": [
+      "7. Pesquisa e Desenvolvimento",
+      "Ações de ensino pesquisa e extensão na área de energias renováveis"
+    ],
+    "areaPrincipal": "Aproveitamento de energia solar fotovoltaica e térmica",
+    "nEquip": 2
+  },
+  {
+    "nome": "LEBio - Laboratorio de Enzimologia e Bioprocessos",
+    "sobre": "O laboratório vem desenvolvendo atividades de pesquisa em áreas variadas focadas principalmente no desenvolvimento de bebidas a partir de matérias primas amazônicas e na prospecção de microrganismos com potencial aplicação biotecnológica.",
+    "cidade": "Santarém",
+    "responsavel": "CLEO BRESSAN",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Análises físico-químicas de alimentos",
+      "Leveduras Fermentadoras",
+      "área de microbiologia"
+    ],
+    "tecnicas": [
+      "- Análises físico-químicas de bebidas",
+      "Bioinsumos",
+      "Bioprospecção",
+      "Elaboração de bebidas fermentadas"
+    ],
+    "areaPrincipal": "Análises físico-químicas de alimentos",
+    "nEquip": 1
+  },
+  {
+    "nome": "LEpiMol - Laboratório de Epidemiologia Molecular",
+    "sobre": "Desenvolve atividades de pesquisa e extensão na temática da exposição mercurial humana, com ênfase nas técnicas de biologia molecular.",
+    "cidade": "Santarém",
+    "responsavel": "Heloisa Meneses",
+    "instituicao": "UFOPA",
+    "areas": [
+      "1. Saúde e Meio Ambiente",
+      "Biologia molecular",
+      "Biomonitoramento",
+      "Educação em saúde",
+      "Epidemiologia nutricional",
+      "Genética humana",
+      "Toxicologia",
+      "epidemiologia molecular",
+      "nutrigenética",
+      "saúde coletiva"
+    ],
+    "tecnicas": [
+      "Análise de dados estatísticos",
+      "Análises de DNA/RNA por meio de PCR e PCR em tempo real",
+      "Dosagem de mercúrio em sangue e cabelo"
+    ],
+    "areaPrincipal": "1. Saúde e Meio Ambiente",
+    "nEquip": 1
+  },
+  {
+    "nome": "Laboratório de Estudos de Ecossistemas Amazônicos (LEEA)",
+    "sobre": "O Laboratório de Estudos de Ecossistemas Amazônicos (LEEA), vinculado ao curso de Biotecnologia da Ufopa, atua nas áreas de fisiologia vegetal, bioquímica e cultura de tecidos vegetais. Focado no desenvolvimento de soluções biotecnológicas sustentáveis, busca fortalecer a bioeconomia, a economia circular e a resiliência e conservação das plantas amazônicas f",
+    "cidade": "Santarém",
+    "responsavel": "Élcio Meira da Fonseca Júnior",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Fisiologia vegetal",
+      "bioeconomia circular",
+      "cultura de tecidos vegetais",
+      "fisiologia do estresse abiótico"
+    ],
+    "tecnicas": [
+      "Cultura de tecidos vegetais",
+      "Sementes sintéticas",
+      "criopreservação de plantas"
+    ],
+    "areaPrincipal": "Fisiologia vegetal",
+    "nEquip": 7
+  },
+  {
+    "nome": "LEIA - Laboratório de Estudos de Impacto Ambiental",
+    "sobre": "O LEIA realiza pesquisas de impactos ambientais dos diferentes usos do solo na biodiversidade aquática.",
+    "cidade": "Santarém",
+    "responsavel": "Jose Max Barbosa de Oliveira Junior",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Ciências biologicas"
+    ],
+    "tecnicas": [
+      "Análise de biodiversidade",
+      "Ecologia de insetos"
+    ],
+    "areaPrincipal": "Ciências biologicas",
+    "nEquip": 2
+  },
+  {
+    "nome": "LELN - Laboratório de Estudos de Lepidópteros Neotropicais",
+    "sobre": "O Laboratório faz parte do Museu de Zoologia do Programa de Ciências Naturais (PCNAT) do Instituto de Ciências da Educação (ICED) da Universidade Federal do Oeste do Pará (UFOPA), nele são desenvolvidos estudos de taxonomia, inventários, ciclos biológicos e diversidade de lepidópteros com ênfase em mariposas. Foi criado a partir da participação na proposta S",
+    "cidade": "Santarém",
+    "responsavel": "José Augusto Teston",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Pesquisa básica"
+    ],
+    "tecnicas": [
+      "Amostragem e identificação de Lepidópteros"
+    ],
+    "areaPrincipal": "Pesquisa básica",
+    "nEquip": 1
+  },
+  {
+    "nome": "LFB - Laboratório de Farmacognosia e Bromatologia",
+    "sobre": "O laboratório de Farmacognosia e Bromatologia está localizado nas dependências da Unidade Tapajós, no Nucleo Tecnológico de Laboratórios (NTL). O seu uso é de uso exclusivo do curso de Farmácia. O laboratório de Farmacognosia e Bromatologia realiza pesquisa na área de produtos naturais, para fins medicinais e alimentares atendendo alunos da graduação e pós- ",
+    "cidade": "Santarém",
+    "responsavel": "Rayanne Rocha Pereira",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Ciência e Tecnologia de Alimentos",
+      "Farmacognosia",
+      "Fitoquimica",
+      "bromatologia"
+    ],
+    "tecnicas": [
+      "Análise de atividade antioxida",
+      "Cinzas (resíduo mineral fixo)",
+      "analise de espectroscopia de ultravioleta",
+      "analise lipideos",
+      "análise de umidade"
+    ],
+    "areaPrincipal": "Ciência e Tecnologia de Alimentos",
+    "nEquip": 1
+  },
+  {
+    "nome": "LFMOS - Laboratório de Fertilidade e Matéria Orgânica dos Solos",
+    "sobre": "Laboratório destinado à prestação de serviço em análise física e química de solo para avaliação da fertilidade. Dar suporte de análises físicas e químicas nas atividades de ensino e pesquisas em fertilidade do solo e áreas correlatas",
+    "cidade": "Santarém",
+    "responsavel": "Clodoaldo Alcino Andrade dos Santos",
+    "instituicao": "UFOPA",
+    "areas": [
+      "(1) MANEJO E CONSERVAÇÃO DO SOLO, com ênfase no estudo da Matéria orgânica e qualidade do solo;",
+      "(2) PEDOLOGIA, USO E FERTILIDADE DO SOLO, com ênfase nos estudos de: (a) Levantamento Pedológico e uso do solo; (b) Dinâmica e disponibilidade de nutrientes e poluentes; (c) Manejo de fertilizantes, corretivos, resíduos e poluentes do solo"
+    ],
+    "tecnicas": [
+      "Analisador Elementar – CHNS",
+      "Centrifugação de alta velocidade",
+      "Colorimetria",
+      "Determinção Analítica por Espectrofotometria Uv-Vis",
+      "Forno mufla até 1300ºC",
+      "Fotometria de Chama",
+      "Liofilização",
+      "Titulometria"
+    ],
+    "areaPrincipal": "(1) MANEJO E CONSERVAÇÃO DO SOLO, com ênfase no estudo da Matéria orgânica e qualidade do solo;",
+    "nEquip": 2
+  },
+  {
+    "nome": "ATMOS - Laboratório de Física e Química da Atmosfera",
+    "sobre": "O ATMOS é responsável por medidas meteorológicas e gases de efeito estufa na região Oeste do Pará. Além disso, desenvolve tecnologias de baixo custo para o monitoramento ambiental (meteorologia e gases). No laboratório também se desenvolvem algumas atividades didáticas, que fazem parte das disciplina de Instrumentação Meteorológica I, Prática de Campo I e II",
+    "cidade": "Santarém",
+    "responsavel": "Raphael Tapajos",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Agrometeorologia",
+      "Geociências",
+      "Instrumentação Meteorológica",
+      "Meteorologia"
+    ],
+    "tecnicas": [
+      "Carbono",
+      "Dados Meteorológicos",
+      "Eddy Covariance",
+      "Medição de Gases do Efeito Estufa",
+      "Obtenção de Dados Meteorológicos",
+      "estação meteorológica"
+    ],
+    "areaPrincipal": "Agrometeorologia",
+    "nEquip": 11
+  },
+  {
+    "nome": "LaFV - Laboratório de Fisiologia Vegetal e Crescimento de Plantas",
+    "sobre": "O LaFV realiza atividades de bioquímica, fisiologia e nutricional de plantas.",
+    "cidade": "Santarém",
+    "responsavel": "Tulio Silva Lara",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Bioquímica e fisiologia vegetal",
+      "Botanica"
+    ],
+    "tecnicas": [
+      "Análise de crescimento e desenvolvimento de plantas",
+      "Análise de macronutrientes (proteínas, lípidos, carboidratos"
+    ],
+    "areaPrincipal": "Bioquímica e fisiologia vegetal",
+    "nEquip": 1
+  },
+  {
+    "nome": "LAGENA - Laboratório de Genética Animal UFOPA",
+    "sobre": "O Laboratório de Genética Animal (LAGENA), da Universidade Federal do Oeste do Pará, é um laboratório de desenvolvendo e implementando soluções inovadoras para a área de genética animal, com competências nas áreas de: biologia molecular, microbiologia, patologia e imunologia animal. O laboratóerio tem como propósito o desenvolvimento de soluções inovadoras, ",
+    "cidade": "Santarém",
+    "responsavel": "Gustavo da Silva Claudiano",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Biologia Molecular aplicada a ensaios de diagnóstico sorológico e molecular de patógenos de interesse em Medicina Veterinária.",
+      "Medicina Veterinária e Zootecnia",
+      "Recursos Pesqueiros e Engenharia de Pesca"
+    ],
+    "tecnicas": [
+      "Amplificação de DNA (PCR, RT-PCR e PCR e RT-PCR em tempo real)",
+      "Analise de biomarcadores por ELISA",
+      "Análise genômica",
+      "análises microbiologicas em geral",
+      "imunohistoquimica"
+    ],
+    "areaPrincipal": "Biologia Molecular aplicada a ensaios de diagnóstico sorológico e molecular de patógenos de interesse em Medicina Veterinária.",
+    "nEquip": 14
+  },
+  {
+    "nome": "LGI - Laboratório de Genética da Interação",
+    "sobre": "Realiza atividades de Biotecnologia Molecular e Interação Planta Patógeno",
+    "cidade": "Santarém",
+    "responsavel": "Eliandra de Freitas Sia",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Fitopatologia"
+    ],
+    "tecnicas": [
+      "Análise de interações microrganismos-plantas.",
+      "Bioprospecção de microrganismos com potencial biotecnológico"
+    ],
+    "areaPrincipal": "Fitopatologia",
+    "nEquip": 1
+  },
+  {
+    "nome": "LGBIO - LABORATÓRIO DE GENÉTICA E BIODIVERSIDADE",
+    "sobre": "O LGBIO-UFOPA está implantado na região oeste do Pará, no município de Santarém e atua principalmente em estudos genéticos da biodiversidade amazônica. Esta unidade de pesquisa é remanescente do Programa de Interiorização da UFPA desde 2003 e foi incorporada pela UFOPA em 2009. O laboratório é vinculado ao curso de graduação em Licenciatura em Ciências Bioló",
+    "cidade": "Santarém",
+    "responsavel": "LUÍS REGINALDO RODRIGUES",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Citogenética",
+      "GENÉTICA DA CONSERVAÇÃO",
+      "Mutagênese ambiental",
+      "Taxonomia molecular",
+      "consultoria ambiental (grupos morcegos e peixes)"
+    ],
+    "tecnicas": [
+      "Análise de cariótipos",
+      "Análises filogenéticas e filogenômicas",
+      "Colecionamento de Tecidos",
+      "Colecionamento e preservação de morcegos",
+      "Colecionamento e preservação de peixes",
+      "Ensaio cometa",
+      "Extração de DNA",
+      "Preparação citogenética",
+      "Sequenciamento Sanger e NGS",
+      "Teste do micronúcleo"
+    ],
+    "areaPrincipal": "Citogenética",
+    "nEquip": 3
+  },
+  {
+    "nome": "LAGESE - Laboratório de Geologia Sedimentar",
+    "sobre": "Laboratório referência na análise sedimentológica, tratamento de amostras, preservação de acervos, confecção de lâminas e ações de extensão. Também atua no ensino e pesquisa e em apoio aos laboratórios de Paleontologia e Geoquímica.",
+    "cidade": "Santarém",
+    "responsavel": "Rick Souza de Oliveira",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Estratigrafia",
+      "Petrologia sedimentar",
+      "Sedimentologia"
+    ],
+    "tecnicas": [
+      "Amostragem de sedimentos e testemunhagem",
+      "Amostragem palinológica e geoquímica em testemunhos de sedimentos/solos",
+      "Analisador de granulometria",
+      "Análise de minerais pesados",
+      "Concentração de Minerais Pesados"
+    ],
+    "areaPrincipal": "Estratigrafia",
+    "nEquip": 7
+  },
+  {
+    "nome": "GEOTERRA - Laboratório de Geoprocessamento, Território e Meio Ambiente",
+    "sobre": "O GeoTerra é um espaço de pesquisa em soluções espaciais para fortalecimento territorial em comunidades amazônicas pela perspectiva ambiental, de gestão dos recursos naturais e desenvolvimento de tecnologias sociais. São temas do laboratório questões associadas com saneamento, conflitos, avaliação de impactos e tecnologias limpas voltadas para a manutenção d",
+    "cidade": "Santarém",
+    "responsavel": "João Paulo Soares de Cortes",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Bioeconomia",
+      "Fortalecimento Territorial",
+      "Planejamento Ambiental",
+      "Planejamento urbano e regional",
+      "Recursos Hídricos",
+      "Saneamento",
+      "Tecnologias Limpas"
+    ],
+    "tecnicas": [
+      "Análise espacial",
+      "Avaliação de Riscos Ambientais",
+      "Ciência Participativa",
+      "Geoprocessamento",
+      "Inovação em Tecnologias Sociais",
+      "Sensoriamento Remoto"
+    ],
+    "areaPrincipal": "Bioeconomia",
+    "nEquip": 3
+  },
+  {
+    "nome": "LABGEO - Laboratório de Geotecnologias",
+    "sobre": "O LabGeo é um laboratório de pesquisa vinculado ao Grupo Amazônico de Pesquisas Geoespaciais (GAPG), sediado na UFOPA. Suas atividades envolvem o uso de geotecnologias, como sensoriamento remoto e geoprocessamento, para o monitoramento florestal, gestão territorial e manejo sustentável dos recursos naturais na Amazônia.",
+    "cidade": "Santarém",
+    "responsavel": "Antonio Henrique Cordeiro Ramalho",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Aerofotogrametria e Fotointerpretação",
+      "Agricultura de precisão",
+      "Agricultura e recursos florestais",
+      "Agronomia",
+      "Engenharia florestal",
+      "Geoprocessamento",
+      "Manejo florestal",
+      "Proteção Florestal",
+      "Recursos Florestais e Engenharia Florestal",
+      "Sensoriamento remoto",
+      "Topografia"
+    ],
+    "tecnicas": [
+      "Acompanhamento e pesquisas de Conclusão de cursos",
+      "Agronomia",
+      "Apoio ao ensino em aulas práticas no curso de Engenharia Florestal",
+      "Manejo florestal",
+      "Modelagem Espacial",
+      "Planejamento Florestal",
+      "Realização de estágios extra-curriculares e obrigatórios, monografias e iniciação cientifica dos alunos dos Cursos de Agronomia, Zootecnia e Ciências Biológicas; Desenvolvimento de projetos de dissertações e teses de alunos do PPGA (São Luís) e PPGAA (Ba",
+      "geoprocessamento",
+      "sensoriamento remoto"
+    ],
+    "areaPrincipal": "Aerofotogrametria e Fotointerpretação",
+    "nEquip": 1
+  },
+  {
+    "nome": "LIDS - Laboratório de Inovação e Desenvolvimento de Software",
+    "sobre": "O Laboratório de Inovação e Desenvolvimento de Software atua em parceria com os cursos de tecnologia da universidade, impulsionando a inserção dos discentes em projetos reais de desenvolvimento de softwares inovadores. Através da criação de soluções que automatizam os processos administrativos e acadêmicos, o laboratório contribui para a formação profissiona",
+    "cidade": "Santarém",
+    "responsavel": "Valkir Santos da Silva",
+    "instituicao": "UFOPA",
+    "areas": [
+      "desenvolvimento de software"
+    ],
+    "tecnicas": [
+      "Desenvolvimento de Software",
+      "Transformação digital",
+      "gerenciamento de projetos"
+    ],
+    "areaPrincipal": "desenvolvimento de software",
+    "nEquip": 1
+  },
+  {
+    "nome": "LabIC - Laboratório de Inteligência Computacional",
+    "sobre": "O Laboratório de Inteligência Computacional (LabIC) desenvolve atividades de ensino e pesquisa em Inteligência Computacional aplicada a problemas de Engenharia (Recarga de Reatores e Predição de Consumo de Energia Elétrica) e e Ciências Ambientais (Predição de Variáveis Ambientais e Processamento de Imagens), utilizando Deep Learning, Internet das Coisas e a",
+    "cidade": "Santarém",
+    "responsavel": "Anderson Meneses",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Ciências Ambientais",
+      "Engenharias"
+    ],
+    "tecnicas": [
+      "Deep Learning",
+      "Internet das Coisas",
+      "Machine learning",
+      "Metaheurísticas",
+      "Visão Computacional"
+    ],
+    "areaPrincipal": "Ciências Ambientais",
+    "nEquip": 1
+  },
+  {
+    "nome": "LAMIB - Laboratório de Micologia e Bioensaios",
+    "sobre": "O Lamib é um espaço multiusuário que foi estruturado em 2022 para desenvolver pesquisas voltadas para o estudo de Fungos, tais como, identificação de fungos ascomicetos e basidiomicetos, macro e microscópicos além de cultivo de cogumelos com fins medicinais e de comestibilidade, avaliação de atividades antimicrobianas e enzimáticas. Atualmente atende o ensin",
+    "cidade": "Santarém",
+    "responsavel": "Eveleise Samira Martins Canto",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Biologia e Taxonomia de fungos",
+      "Micologia",
+      "Microbiologia"
+    ],
+    "tecnicas": [
+      "Preparação de exsicatas",
+      "Preparação de materiais didáticos laminários e modelos",
+      "Sistemática e taxonomia de fungos",
+      "identificação de ascomicetos",
+      "identificação de basidiomicetos"
+    ],
+    "areaPrincipal": "Biologia e Taxonomia de fungos",
+    "nEquip": 6
+  },
+  {
+    "nome": "LMP. - Laboratório de Micropropagação de Plantas in vitro",
+    "sobre": "Realiza atividades de produção de mudas em escala com qualidade genética e fitossanitária de interesse amazônico",
+    "cidade": "Santarém",
+    "responsavel": "Eliandra de Freitas Sia",
+    "instituicao": "UFOPA",
+    "areas": [
+      "cultura de tecidos vegetais"
+    ],
+    "tecnicas": [
+      "Biotecnologia vegetal",
+      "Micropropagação de plantas"
+    ],
+    "areaPrincipal": "cultura de tecidos vegetais",
+    "nEquip": 1
+  },
+  {
+    "nome": "LabMC - Laboratório de Modelagem Computacional",
+    "sobre": "O LabMC contribui com o desenvolvimento científico e tecnológico, fornecendo recursos computacionais necessários às disciplinas de Programação e Métodos Numéricos e Computacionais e ao desenvolvimento de projetos de ensino, pesquisa e extensão, principalmente na área da Dinâmica dos Fluidos computacional (DFC).",
+    "cidade": "Santarém",
+    "responsavel": "JOSECLEY FIALHO GÓES",
+    "instituicao": "UFOPA",
+    "areas": [
+      "CFD",
+      "Modelagem computacional de alto desempenho",
+      "machine learning e CFD"
+    ],
+    "tecnicas": [
+      "Análise de Desempenho de Turbomáquinas",
+      "Análise do Escoamento em Canais Abertos de Nível Variado",
+      "Modelagem e simulação numérica",
+      "modelagem bidimensional e tridimensional"
+    ],
+    "areaPrincipal": "CFD",
+    "nEquip": 1
+  },
+  {
+    "nome": "PaleoAmazon - Laboratório de Paleontologia",
+    "sobre": "Único espaço de salvaguarda, catalogação e exposição de acervo paleotológico da região Amazônica do Oeste do Pará, este laboratório possibilitar a abordagem prática e teórica, por meio de manipulação de fósseis da região e desenvolve atividades relacionadas a Trabalhos de Conclusão de Curso, Projetos de Ensino, de Pesquisa, de Extensão ou de Inovação dos cur",
+    "cidade": "Santarém",
+    "responsavel": "",
+    "instituicao": "UFOPA",
+    "areas": [],
+    "tecnicas": [],
+    "areaPrincipal": "—",
+    "nEquip": 13
+  },
+  {
+    "nome": "LP&DFC - Laboratório de Pesquisa e Desenvolvimento Farmacotécnico e Cosmético",
+    "sobre": "Destina-se a atividades de ensino e pesquisa da produção em escala laboratorial de formas farmacêuticas tradicionais, biocosméticos e sistemas de liberação sustentado de fármacos e bioativos baseados em óleos vegetais e manteigas oriundos da biodiversidade amazônica. Realizamos desde o delineamento até a caracterização físico-química dos bioproduto a farmacê",
+    "cidade": "Santarém",
+    "responsavel": "Kariane Mendes Nunes",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Cosmetologia",
+      "Farmacotecnia",
+      "Tecnologia farmaceutica"
+    ],
+    "tecnicas": [
+      "Análise da estabilidade de emulsões e suspensões",
+      "Controle de qualidade de medicamentos",
+      "controle de qualidade de produtos naturais",
+      "desenvolvimento de formas farmaceuticas",
+      "ensaios de estabilidade"
+    ],
+    "areaPrincipal": "Cosmetologia",
+    "nEquip": 1
+  },
+  {
+    "nome": "LabQOPN - Laboratório de Química Orgânica e de Produtos Naturais",
+    "sobre": "O Laboratório de Química Orgânica e de Produtos Naturais é um laboratório voltado para a prospecção de extratos vegetais e de microrganismos, com o objetivo de investigação de metabólitos secundários voltados para a área farmacêutica, cosmética e alimentícias.",
+    "cidade": "Santarém",
+    "responsavel": "Kelly Christina Ferreira Castro",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Análises Cromatográficas e Espectrométricas",
+      "Análises cromatográficas em fase líquida e em fase gasosa",
+      "Química de produtos naturais"
+    ],
+    "tecnicas": [
+      "11. Cromatografia liquída de alta eficiência (HPLC) (Shimadzu))",
+      "Análise e purificação cromatográfica",
+      "Análise por Cromatografia líquida",
+      "Análises quantitativas por cromatografia líquida acoplada a detector de arranjo de diodos",
+      "Cromatografia",
+      "Cromatografia em Camada delgada de Alta Performance - HPTLC"
+    ],
+    "areaPrincipal": "Análises Cromatográficas e Espectrométricas",
+    "nEquip": 4
+  },
+  {
+    "nome": "LQOF - Laboratório de Química Orgânica e Farmacêutica",
+    "sobre": "O Laboratório de Química Orgânica e Farmacêutica é um ambiente de ensino, pesquisa e inovação tecnológica, cujo foco principal está nas áreas de produtos naturais, química orgânica e química farmacêutica medicinal. Além das atividades de ensino e pesquisa, o Laboratório de Química Orgânica e Farmacêutica também se dedica à inovação tecnológica e ao fomento à",
+    "cidade": "Santarém",
+    "responsavel": "Gabriela Bianchi dos Santos",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Análise de Produtos Naturais",
+      "Bioprospecção de produtos naturais aplicados à saúde",
+      "Estratégias de química medicinal e uso de ferramentas de modelagem molecular como docking, dinâmica molecular e triagem virtual aplicadas no estudo de inibidores enzimáticos, reposicionamento de fármacos e desenvolvimento de novos candidatos a antimicrob",
+      "Química Medicinal",
+      "isolamento de moléculas bioativas"
+    ],
+    "tecnicas": [
+      "Absorção da Região do UV-Vis",
+      "Analise espectrofotometica por UV/Vis",
+      "Análise cromatográfica",
+      "Análise por Cromatografia líquida",
+      "Síntese convencional",
+      "sintese e cracterização físico-química de biomateriais"
+    ],
+    "areaPrincipal": "Análise de Produtos Naturais",
+    "nEquip": 1
+  },
+  {
+    "nome": "LABSAN - Laboratório de Saneamento",
+    "sobre": "0 Laboratório de Saneamento é destinado a atividades de Pesquisa, Ensino, Extensão e Inovação. É capacitado para realização de análises físicas, química e biológicas relativas à qualidade das águas e efluentes domésticos, indústrias e agrícolas. Possui uma área destinada a experimentos, ensaios e realização de aulas práticas. Além disso, o laboratório também",
+    "cidade": "Santarém",
+    "responsavel": "Nilza Martins de Queiroz Xavier Brasil",
+    "instituicao": "IFPA",
+    "areas": [
+      "Saneamento"
+    ],
+    "tecnicas": [
+      "Analise de água"
+    ],
+    "areaPrincipal": "Saneamento",
+    "nEquip": 1
+  },
+  {
+    "nome": "LARSANA - Laboratório de Sanidade Animal",
+    "sobre": "O Laboratório de Sanidade Animal do Instituto de Biodiversidade e Floresta é um laboratório de ensino e pesquisa que atende aos cursos de graduação de Zootecnia e Biotecnologia e aos cursos de pós-graduação Biociências e SND.",
+    "cidade": "Santarém",
+    "responsavel": "Antonio Humberto Hamad Minervino",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Diagnóstico de doenças infecciosas e zoonoses",
+      "Medicina Veterinária"
+    ],
+    "tecnicas": [
+      "Análises bioquímicas e enzimáticas",
+      "Análises hematológicas",
+      "Análises sorológicas",
+      "análises moleculares"
+    ],
+    "areaPrincipal": "Diagnóstico de doenças infecciosas e zoonoses",
+    "nEquip": 10
+  },
+  {
+    "nome": "LabMat - Laboratório de Sintese e Caracterização de Materiais",
+    "sobre": "O laboratório representa um núcleo importante de ciência de materiais na Amazônia, combinando pesquisa de base e inovação tecnológica. Atua no desenvolvimento de materiais avançados, com foco em sustentabilidade e aplicação prática.",
+    "cidade": "Santarém",
+    "responsavel": "Querem Rebelo",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Sintese hidrotérmica",
+      "processamento de argilas e minerais",
+      "reações químicas controladas"
+    ],
+    "tecnicas": [
+      "Síntese de Materiais cerâmicos",
+      "sintese de materiais funcionais"
+    ],
+    "areaPrincipal": "Sintese hidrotérmica",
+    "nEquip": 4
+  },
+  {
+    "nome": "LaSIS - Laboratório de situação em Saúde",
+    "sobre": "O Laboratório de Situação em Saúde do Instituto de Saúde Coletiva (LaSIS/UFOPA) é um espaço estratégico voltado à análise crítica da situação de saúde da região amazônica, principalmente na região onde está inserida a universidade.",
+    "cidade": "Santarém",
+    "responsavel": "Hernane Guimarães Santos Junior",
+    "instituicao": "UFOPA",
+    "areas": [
+      "1. Saúde e Meio Ambiente",
+      "Abrange cursos da área da escola de saúde: Fisioterapia, Educação Física, Medicina, Enfermagem",
+      "Análise de dados epidemiológicos",
+      "Aplicações de IA em Saúde",
+      "Atenção Primária à Saúde e seus Efeitos na Saúde da População"
+    ],
+    "tecnicas": [
+      "4. Mapeamentos de susceptibilidades, riscos e potenciais",
+      "Análise Epidemiológica",
+      "Análise Estatística: Tratamento e interpretação dos dados coletados durante as pesquisas. Vigilância genômica e epidemiológica de agentes infeciosos em populações vulneráveis.",
+      "Elaboração de mapas",
+      "Geoprocessamento",
+      "Pesquisa em saúde coletiva e epidemiologia",
+      "Saúde digital",
+      "• Epidemiologia e saúde coletiva"
+    ],
+    "areaPrincipal": "1. Saúde e Meio Ambiente",
+    "nEquip": 1
+  },
+  {
+    "nome": "LASP - Laboratório de Socieconomia Pesqueira",
+    "sobre": "O LASP se localiza no Bloco Modular Tapajós, sala 106, UFOPA, possui 45 m2, está sob a Coordenação do Prof. Dr. Tony Porto Braga e Vice Coord. do Prof. Dr. Charles Hanry. Desenvolve atividades de Ensino, Pesquisas e Extensão nas áreas da Pesca, Economia Pesqueira e Aquícola, Comunidades Tradicionais, Reservas Extrativistas e Etnociências (Etnoecologia e Etno",
+    "cidade": "Santarém",
+    "responsavel": "Charles Hanry Faria Junior",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Administração e Manejo dos Recurso Pesqueiros",
+      "Aquicultura e pesca",
+      "Atividades de ensino em Engenharia de Pesca e Aquicultura",
+      "Ecologia Humana",
+      "Economia Pesqueira",
+      "Etnociências (Etnoconhecimento, Etnoecologia e Etnoictiologia).",
+      "Extensão Pesqueira e Aquicola",
+      "Povos e comunidades tradicionais"
+    ],
+    "tecnicas": [
+      "7. Pesquisa e Desenvolvimento",
+      "Apoio a Atividades de Ensino",
+      "Ações de Extensão",
+      "Capacitação",
+      "Orientações",
+      "Produção científica"
+    ],
+    "areaPrincipal": "Administração e Manejo dos Recurso Pesqueiros",
+    "nEquip": 4
+  },
+  {
+    "nome": "LTM - Laboratório de Tecnologia da Madeira e Bioprodutos",
+    "sobre": "A história da LTM se inicia em 1957, com a implantação em Santarém do Centro Tecnológico Madeireiro em Santarém - PA, por meio da Parceria FAO – SPVEA, sediando pesquisas sobre diferentes tratamentos de manejo de florestas nativas, caracterização tecnológica e uso racional das madeiras locais, auxiliando na Resolução Conama 406/2019. Atualmente, prossegue co",
+    "cidade": "Santarém",
+    "responsavel": "FERNANDO WALLASE CARVALHO ANDRADE",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Anatomia da madeira",
+      "Avaliação de propriedades químicas da madeira",
+      "Biodegradação da madeira",
+      "Caracterização da madeira e derivados",
+      "Caracterização química da madeira",
+      "Ciência da madeira",
+      "Propriedades físicas e mecânicas da madeira",
+      "Tecnologia da madeira"
+    ],
+    "tecnicas": [
+      "Analisador Elementar – CHNS",
+      "Análise do poder calorífico superior da biomassa",
+      "Análise imediata",
+      "Análise macroscópica de plantas",
+      "Análise volumétrica da madeira",
+      "Caracterização mecânica de materiais",
+      "Composição química da madeira",
+      "Dendrocronologia",
+      "Ensaios de apodrecimento de madeira",
+      "Microtomia e coloração de cortes semi-finos"
+    ],
+    "areaPrincipal": "Anatomia da madeira",
+    "nEquip": 10
+  },
+  {
+    "nome": "LAMNUPPA - Laboratório Multidisciplinar do Núcleo de Apoio à Pesquisa do INPA no Pará",
+    "sobre": "Laboratório Multidisciplinar do Núcleo de Apoio à Pesquisa do INPA no Pará é um ambiente focado na inovação, experimentação e criação de conhecimento para desenvolver novos produtos, processos ou aprimorar os existentes, empregando trabalho sistemático para gerar aplicações tecnológicas e soluções para desafios industriais e sociais, com infraestrutura espec",
+    "cidade": "Santarém",
+    "responsavel": "Adrya figueiredo",
+    "instituicao": "INPA",
+    "areas": [
+      "1. Biotecnologia e Bioprocessos",
+      "1. Saúde e Meio Ambiente",
+      "2. Ciência e Tecnologia de Alimentos",
+      "4. Sustentabilidade e Bioeconomia",
+      "Agronomia",
+      "Bioquímica e fisiologia vegetal",
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "tecnicas": [
+      "3. Técnica de obtenção do carbono da biomassa microbiana do solo (C-BMS);",
+      "Análise da qualidade sensorial, fisico-química e microbiológica de alimentos",
+      "Análises de fisiologia vegetal",
+      "Técnicas Físico-Químicas e Bromatológicas",
+      "Técnicas Instrumentais de Análise",
+      "Técnicas Microbiológicas",
+      "Técnicas de Processamento e Conservação"
+    ],
+    "areaPrincipal": "1. Biotecnologia e Bioprocessos",
+    "nEquip": 1
+  },
+  {
+    "nome": "Lampoa - Laboratório Múltiplo para Produção de Organismos Aquáticos",
+    "sobre": "No laboratório são realizadas pesquisas em diversas linhas da área de aquicultura, com o objetivo de produção e divulgação de informações científicas que possibilitem o desenvolvimento sustentável da aquicultura na região, e formação de recursos humanos, através da participação de discentes dos cursos de graduação e pós-graduação da Instituição na execução d",
+    "cidade": "Santarém",
+    "responsavel": "Luciano Jensen Vaz",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Aquicultura sustentável",
+      "Ensaios biológicos",
+      "Nutrição animal",
+      "anestésicos em peixes",
+      "produção de peixes em tanque rede",
+      "transporte de peixes",
+      "uso de probióticos"
+    ],
+    "tecnicas": [
+      "Análise de parâmetros de qualidade de água (temperatura, pH, condutividade elétrica, salinidade, oxigênio dissolvido),",
+      "Ensaios de desenvolvimento, de teste ou de validação de insumos para nutrição animal;",
+      "peixes comerciais amazônicos",
+      "peixes ornamentais",
+      "pesquisa com organismos aquáticos",
+      "tecnologia de bioflocos"
+    ],
+    "areaPrincipal": "Aquicultura sustentável",
+    "nEquip": 8
+  },
+  {
+    "nome": "NEMAQUA - Núcleo Multiusuario de Pesquisa em Aquicultura Amazônica Integrada",
+    "sobre": "O Núcleo Multiusuário de Pesquisa em Aquicultura Amazônica Integrada – NEMAQUA é composto por um laboratório úmido de aquicultura integrada (Laboratório de Experimentação Animal e Vegetal – LEAV) e um laboratório seco (Laboratório Analítico Aplicado a Aquicultura - LAAQUA) a ser dedicado para análises laboratoriais vinculadas aos experimentos conduzidos no L",
+    "cidade": "Santarém",
+    "responsavel": "Igor Bartolomeu Alves de Barros",
+    "instituicao": "IFPA",
+    "areas": [
+      "Aquaponia",
+      "Aquicultura",
+      "Aquicultura e fertilizantes de áreas conrelacionadas",
+      "Aquicultura sustentável",
+      "Automação e Informatização na aquicultura"
+    ],
+    "tecnicas": [
+      "Análises Fisiológicas",
+      "Criação de organismos aquáticos em Sistema Aquapônico",
+      "análises bioquimicas"
+    ],
+    "areaPrincipal": "Aquaponia",
+    "nEquip": 10
+  },
+  {
+    "nome": "TOYLab - Tapajós Open Prototyping and Innovation Lab",
+    "sobre": "O Laboratório Aberto de Prototipagem e Inovação do Tapajós (TOYLab) apoia o desenvolvimento de negócios e a melhoria de produtos ou serviços já existentes, oferecendo serviços de prototipagem rápida de produtos florestais e de produtos gerais, para os atores da Ufopa e da comunidade externa, que buscam inovar e criar impacto positivo no Oeste do Pará. Alguns",
+    "cidade": "Santarém",
+    "responsavel": "Celson Pantoja Lima",
+    "instituicao": "UFOPA",
+    "areas": [
+      "Criação, prototipação e testes de artefatos e serviços",
+      "Design",
+      "Modelagem de Negócios",
+      "Área de Modelagem"
+    ],
+    "tecnicas": [
+      "Corte a laser",
+      "Criação de placas de circuito impresso",
+      "Desenvolvimento de produtos por impressão 3D",
+      "Fresagem CNC"
+    ],
+    "areaPrincipal": "Criação, prototipação e testes de artefatos e serviços",
+    "nEquip": 8
+  },
+  {
+    "nome": "Labot - MuCa - Laboratório de Botânica - Museu de Ciências da Amazonia",
+    "sobre": "O objetivo do laboratório é entender padrões espaciais e temporais na biodiversidade de diversos grupos biológicos. Para isso, estudos com diferentes abordagens (experimentos, amostragem em campo, modelagem) são realizados.",
+    "cidade": "Belterra",
+    "responsavel": "Wander de Oliveira",
+    "instituicao": "AMA - ORGANIZACAO DE DESENVOLVIMENTO CULTURAL E PRESERVACAO AMBIENTAL AMA-BRASIL",
+    "areas": [
+      "Botanica"
+    ],
+    "tecnicas": [
+      "7. Pesquisa e Desenvolvimento"
+    ],
+    "areaPrincipal": "Botanica",
+    "nEquip": 13
+  },
+  {
+    "nome": "Labensino - MuCa - Laboratório de Ensino - Museu de Ciências da Amazonia",
+    "sobre": "Montagem e condução de experimentos didáticos, reunindo equipamentos e materiais de consumo, para serem utilizados em aulas experimentais e ensaios",
+    "cidade": "Belterra",
+    "responsavel": "Wander de Oliveira",
+    "instituicao": "AMA - ORGANIZACAO DE DESENVOLVIMENTO CULTURAL E PRESERVACAO AMBIENTAL AMA-BRASIL",
+    "areas": [
+      "Ciencias da Natureza"
+    ],
+    "tecnicas": [
+      "Adotar e definir métodos e técnicas de estudos"
+    ],
+    "areaPrincipal": "Ciencias da Natureza",
+    "nEquip": 12
+  },
+  {
+    "nome": "Labzoo - MuCA - Laboratório de Zoologia - Museu de Ciências da Amazonia",
+    "sobre": "O Museu de Ciência da Amazônia (MuCA) é o primeiro Laboratório Avançado de Selva no país e abrigo para a vida e para unir conhecimento tradicional e científico. Às margens da Flona do Tapajós, no coração da Amazônia, está localizado na região com a maior diversidade de ecossistemas nacional e a mais alta atividade biológica do planeta.",
+    "cidade": "Belterra",
+    "responsavel": "Wander de Oliveira",
+    "instituicao": "AMA - ORGANIZACAO DE DESENVOLVIMENTO CULTURAL E PRESERVACAO AMBIENTAL AMA-BRASIL",
+    "areas": [
+      "Bioeconomia",
+      "Sociobioeconomia",
+      "Zoologia"
+    ],
+    "tecnicas": [
+      "Apoio a pesquisas de Botânica, Ecologia e Restauração Florestal",
+      "Bioeconomia Circular",
+      "Biotecnologia",
+      "Coletas botânicas",
+      "Zoologia",
+      "coleção zoológica"
+    ],
+    "areaPrincipal": "Bioeconomia",
+    "nEquip": 3
+  },
+  {
+    "nome": "LABEF - Laboratório Multidisciplinar I - Edificações/Física",
+    "sobre": "O LABEF é um laboratório multidisciplinar dedicado à integração dos conhecimentos de edificações, física e matemática, com o objetivo de promover uma abordagem prática e experimental. O laboratório permite que os alunos explorem os efeitos das leis físicas nas edificações, como resistência de materiais, tensões, estruturas hidráulicas e transferências de ene",
+    "cidade": "Itaituba",
+    "responsavel": "Ana Luiza Magalhães",
+    "instituicao": "IFPA",
+    "areas": [
+      "Análises físicas",
+      "Atividade de Ensino Curso Técnico em Edificações",
+      "Engenharias, Física e Matemática"
+    ],
+    "tecnicas": [
+      "ENSAIO DE RESISTENCIA MECANICA",
+      "Hidraulica",
+      "resistencia à tração"
+    ],
+    "areaPrincipal": "Análises físicas",
+    "nEquip": 1
+  },
+  {
+    "nome": "LABBIO - Laboratório Multidisciplinar II - Biologia",
+    "sobre": "O LABBIO é um laboratório voltado ao estudo e à pesquisa biológica, oferecendo um ambiente para experimentos sobre os processos biológicos, ecossistemas e biodiversidade. Nele, alunos e pesquisadores exploram temas como genética, evolução, fisiologia e ecologia, aplicando conceitos teóricos em práticas laboratoriais. O LABBIO promove a formação de profission",
+    "cidade": "Itaituba",
+    "responsavel": "Ana Luiza Magalhães",
+    "instituicao": "IFPA",
+    "areas": [
+      "Agroecologia",
+      "Anatomia Vegetal",
+      "Anatomia e Fisiologia Animal"
+    ],
+    "tecnicas": [
+      "Anatomia e Fisiologia Vegetal",
+      "Análises de fisiologia vegetal",
+      "Ecologia",
+      "Evolução Molecular"
+    ],
+    "areaPrincipal": "Agroecologia",
+    "nEquip": 1
+  },
+  {
+    "nome": "LAMICRO - Laboratório Multidisciplinar III - Microbiologia",
+    "sobre": "O LAMICRO é um laboratório dedicado ao estudo dos microrganismos, com foco em sua biologia, classificação e impactos em diversos setores, como saúde e indústria. Ele proporciona aos estudantes a realização de experimentos relacionados à microbiologia ambiental e alimentar. Além disso, o laboratório realiza pesquisas sobre patógenos, antibióticos e biotecnolo",
+    "cidade": "Itaituba",
+    "responsavel": "Ana Luiza Magalhães",
+    "instituicao": "IFPA",
+    "areas": [
+      "Análise microbiológica de água",
+      "Apoio ao ensino em aulas sobre microbiologia de solos",
+      "Microbiologia"
+    ],
+    "tecnicas": [
+      "Microbiologia agrícola",
+      "Microbiologia ambiental",
+      "Microbiologia de alimentos"
+    ],
+    "areaPrincipal": "Análise microbiológica de água",
+    "nEquip": 1
+  },
+  {
+    "nome": "LAQ - Laboratório Multidisciplinar IV - Química",
+    "sobre": "O LAQ é um laboratório de química que oferece aos estudantes um espaço para aplicar teorias químicas em experimentos práticos. Ele abrange áreas como química orgânica, inorgânica, analítica e ambiental. Os alunos exploram reações químicas, processos de purificação e análise de substâncias, desenvolvendo habilidades que os capacitam para atuar em indústrias q",
+    "cidade": "Itaituba",
+    "responsavel": "Ana Luiza Magalhães",
+    "instituicao": "IFPA",
+    "areas": [
+      "Analises Quimicas",
+      "Físico-Quimica",
+      "análise de aguas",
+      "quimica do solo"
+    ],
+    "tecnicas": [
+      "Análise de água (ph, condutividade, salinidade, oxigênio dissolvido, temperatura, turbidez)",
+      "Determinação de acidez por titulação"
+    ],
+    "areaPrincipal": "Analises Quimicas",
+    "nEquip": 47
+  }
+]
