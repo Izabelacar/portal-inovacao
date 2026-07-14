@@ -6,7 +6,7 @@
  *   1) Rode o schema primeiro:  mysql -u root -p < ../sql/schema.sql
  *   2) node seed.js
  */
-require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') });
+require('dotenv').config({ path: require('path').resolve(__dirname, '..', '..', '.env') });
 const fs = require('fs');
 const path = require('path');
 const pool = require('../db');
