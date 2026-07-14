@@ -211,7 +211,6 @@ git push -u origin main
 > Quem for clonar o repositório depois só precisa copiar `.env.example` para
 > `.env` e preencher com as próprias credenciais — nada sensível fica no Git.
 
-<<<<<<< HEAD
 ## Publicando online (Frontend no GitHub Pages + Backend na Railway)
 
 O GitHub Pages só serve arquivos estáticos — ele publica o React, mas não
