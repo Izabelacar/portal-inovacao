@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-// Em desenvolvimento, usa o proxy do Vite (/api -> http://localhost:3001).
-// Em produção (GitHub Pages), aponta para a API publicada (ex: Railway),
-// definida em VITE_API_URL no arquivo client/.env.production.
 const BASE_URL = `${import.meta.env.VITE_API_URL || '/api'}`;
-=======
-const BASE_URL = '/api';
->>>>>>> f62d7863e58360d65edb3f16471c986938deda61
 const TOKEN_KEY = 'admin_token';
 
 export function getAdminToken() {
