@@ -55,7 +55,6 @@ portal-inovacao/
     ├── seed/                → popula o banco com os dados originais
     │   ├── seed.js
     │   └── data/*.json
-    ├── .env.example
     └── package.json
 ```
 
