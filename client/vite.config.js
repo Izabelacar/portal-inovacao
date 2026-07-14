@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react';
 // pelo nome exato do seu repositório (com as barras "/" no começo e no fim).
 // Em desenvolvimento local isso não afeta nada.
 export default defineConfig({
-  base: '/NOME-DO-REPO/',
+  base: '/PORTAL-INOVACAO/',
   plugins: [react()],
   server: {
     port: 5173,
