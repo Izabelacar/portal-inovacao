@@ -1,0 +1,65 @@
+services:
+  db:
+    image: mysql:8.4
+    container_name: portal-inovacao-db
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpass}
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-parques_inovacao}
+      MYSQL_USER: ${MYSQL_USER:-portal}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-portalpass}
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./server/sql/schema.sql:/docker-entrypoint-initdb.d/001-schema.sql:ro
+    networks:
+      - npm
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -uroot -p$${MYSQL_ROOT_PASSWORD} --silent"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+
+  api:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: portal-inovacao-api
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      PORT: 3001
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_USER: ${MYSQL_USER:-portal}
+      DB_PASSWORD: ${MYSQL_PASSWORD:-portalpass}
+      DB_NAME: ${MYSQL_DATABASE:-parques_inovacao}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-admin123}
+    command: sh -c "npm run seed || true; node server.js"
+    networks:
+      - npm
+    expose:
+      - "3001"
+
+  web:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    container_name: portal-inovacao-web
+    restart: unless-stopped
+    depends_on:
+      - api
+    networks:
+      - npm
+    expose:
+      - "80"
+    ports:
+      - "8085:80"
+
+volumes:
+  mysql-data:
+
+networks:
+  npm:
+    external: true
