@@ -211,6 +211,58 @@ git push -u origin main
 > Quem for clonar o repositório depois só precisa copiar `.env.example` para
 > `.env` e preencher com as próprias credenciais — nada sensível fica no Git.
 
+<<<<<<< HEAD
+## Publicando online (Frontend no GitHub Pages + Backend na Railway)
+
+O GitHub Pages só serve arquivos estáticos — ele publica o React, mas não
+roda o Node/Express nem o MySQL. Por isso o backend + banco vão para a
+**Railway** (tem MySQL gratuito integrado), e o frontend fica no **GitHub
+Pages**.
+
+### A) Backend + MySQL na Railway
+
+1. Crie uma conta em [railway.app](https://railway.app) (dá para entrar com o GitHub).
+2. **New Project** → **Deploy from GitHub repo** → selecione o repositório que você acabou de subir.
+3. Railway vai tentar rodar o projeto inteiro. Configure o **Root Directory** do serviço para `server` (nas configurações do serviço, aba "Settings").
+4. No mesmo projeto, clique em **+ New** → **Database** → **Add MySQL**. Isso cria um banco MySQL gerenciado.
+5. No serviço do backend, vá em **Variables** e adicione:
+   - `DB_HOST`, `DB_PORT`, `DB_USER`, `DB_PASSWORD`, `DB_NAME` → copie os valores da aba **Variables** do banco MySQL que a Railway criou (ela mostra tudo pronto).
+   - `ADMIN_PASSWORD` → a senha que você quer usar no painel `/admin`.
+   - `PORT` → a Railway define isso sozinha, pode deixar como está no `server.js` (`process.env.PORT`).
+6. Depois do primeiro deploy, abra o **Shell** do serviço (ou rode localmente apontando pro banco da Railway) e rode:
+   ```bash
+   npm run seed
+   ```
+   para popular as tabelas.
+7. Em **Settings → Networking**, gere um domínio público (**Generate Domain**). Você vai receber algo como `https://portal-inovacao-api.up.railway.app`.
+
+### B) Frontend no GitHub Pages
+
+1. Edite `client/vite.config.js` e troque `/portal-inovacao/` pelo nome exato do
+   seu repositório no GitHub (ex: se o repo é `portal-inovacao`, use `base: '/portal-inovacao/'`).
+2. Edite `client/.env.production` e troque a URL de exemplo pela URL real que
+   a Railway te deu no passo A.7, sempre terminando em `/api`:
+   ```
+   VITE_API_URL=https://portal-inovacao-api.up.railway.app/api
+   ```
+3. No GitHub, vá em **Settings → Pages** do repositório e em "Build and
+   deployment" escolha **Source: GitHub Actions**.
+4. Faça commit e push dessas duas alterações:
+   ```bash
+   git add client/vite.config.js client/.env.production
+   git commit -m "Configurar build para GitHub Pages + API da Railway"
+   git push
+   ```
+5. O workflow em `.github/workflows/deploy-pages.yml` já está pronto — ele
+   builda o front e publica automaticamente a cada push. Acompanhe em
+   **Actions** (aba do repositório) até aparecer o ✅ verde.
+6. Seu site fica em `https://github.com/Izabelacar/portal-inovacao`.
+
+> As rotas usam `#` na URL (ex: `.../#/mapas`, `.../#/admin`) — isso é
+> necessário para funcionar corretamente no GitHub Pages.
+
+=======
+>>>>>>> f62d7863e58360d65edb3f16471c986938deda61
 ## Solução de problemas comuns
 
 **`mysqladmin: connect to server ... failed`**
