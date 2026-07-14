@@ -211,6 +211,7 @@ git push -u origin main
 > Quem for clonar o repositório depois só precisa copiar `.env.example` para
 > `.env` e preencher com as próprias credenciais — nada sensível fica no Git.
 
+<<<<<<< HEAD
 ## Publicando online (Frontend no GitHub Pages + Backend na Railway)
 
 O GitHub Pages só serve arquivos estáticos — ele publica o React, mas não
@@ -260,6 +261,8 @@ Pages**.
 > As rotas usam `#` na URL (ex: `.../#/mapas`, `.../#/admin`) — isso é
 > necessário para funcionar corretamente no GitHub Pages.
 
+=======
+>>>>>>> f62d7863e58360d65edb3f16471c986938deda61
 ## Solução de problemas comuns
 
 **`mysqladmin: connect to server ... failed`**
