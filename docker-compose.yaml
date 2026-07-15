@@ -52,6 +52,7 @@ services:
       - api
     networks:
       - portal
+      - npm
     expose:
       - "80"
 
