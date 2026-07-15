@@ -28,6 +28,8 @@ services:
     depends_on:
       db:
         condition: service_healthy
+    ports:
+      - "3001:3001"
     environment:
       PORT: 3001
       DB_HOST: db
@@ -38,7 +40,9 @@ services:
       ADMIN_PASSWORD: ${ADMIN_PASSWORD:-admin123}
     command: sh -c "npm run seed || true; node server.js"
     networks:
-      - npm
+      npm:
+        aliases:
+          - portal-inovacao-api
     expose:
       - "3001"
 
@@ -51,7 +55,11 @@ services:
     depends_on:
       - api
     networks:
-      - npm
+      npm:
+        aliases:
+          - portal-inovacao-web
+    ports:
+      - "80:80"
     expose:
       - "80"
 
