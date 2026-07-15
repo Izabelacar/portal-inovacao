@@ -8,6 +8,7 @@ const apiProxyTarget = process.env.VITE_API_PROXY_TARGET || 'http://localhost:30
 // pelo nome exato do seu repositório (com as barras "/" no começo e no fim).
 // Em desenvolvimento local isso não afeta nada.
 export default defineConfig({
+  envDir: '../',
   base: '/portal-inovacao/',
   plugins: [react()],
   server: {

@@ -44,8 +44,8 @@ services:
 
   web:
     build:
-      context: ./client
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: ./client/Dockerfile
     container_name: portal-inovacao-web
     restart: unless-stopped
     depends_on:

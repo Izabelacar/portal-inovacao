@@ -238,17 +238,17 @@ Pages**.
 
 1. Edite `client/vite.config.js` e troque `/portal-inovacao/` pelo nome exato do
    seu repositório no GitHub (ex: se o repo é `portal-inovacao`, use `base: '/portal-inovacao/'`).
-2. Edite `client/.env.production` e troque a URL de exemplo pela URL real que
-   a Railway te deu no passo A.7, sempre terminando em `/api`:
+3. Defina `VITE_API_URL` no `.env` raiz e, em produção, use a URL real da API
+   terminando em `/api`:
    ```
    VITE_API_URL=https://portal-inovacao-api.up.railway.app/api
    ```
-3. No GitHub, vá em **Settings → Pages** do repositório e em "Build and
+4. No GitHub, vá em **Settings → Pages** do repositório e em "Build and
    deployment" escolha **Source: GitHub Actions**.
-4. Faça commit e push dessas duas alterações:
+5. Faça commit e push dessas alterações:
    ```bash
-   git add client/vite.config.js client/.env.production
-   git commit -m "Configurar build para GitHub Pages + API da Railway"
+   git add client/vite.config.js .env
+   git commit -m "Configurar build para GitHub Pages + API usando .env raiz"
    git push
    ```
 5. O workflow em `.github/workflows/deploy-pages.yml` já está pronto — ele
