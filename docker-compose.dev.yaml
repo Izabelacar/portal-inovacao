@@ -1,18 +1,20 @@
+version: "3.9"
+
 services:
   db:
     image: mysql:8.4
-    container_name: portal-inovacao-db
+    container_name: portal-inovacao-db-dev
     restart: unless-stopped
     environment:
       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpass}
       MYSQL_DATABASE: ${MYSQL_DATABASE:-parques_inovacao}
       MYSQL_USER: ${MYSQL_USER:-portal}
       MYSQL_PASSWORD: ${MYSQL_PASSWORD:-portalpass}
+    ports:
+      - "3306:3306"
     volumes:
       - mysql-data:/var/lib/mysql
       - ./server/sql/schema.sql:/docker-entrypoint-initdb.d/001-schema.sql:ro
-    networks:
-      - npm
     healthcheck:
       test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -uroot -p$${MYSQL_ROOT_PASSWORD} --silent"]
       interval: 10s
@@ -23,11 +25,14 @@ services:
     build:
       context: ./server
       dockerfile: Dockerfile
-    container_name: portal-inovacao-api
+    container_name: portal-inovacao-api-dev
     restart: unless-stopped
-    depends_on:
-      db:
-        condition: service_healthy
+    command: sh -c "npm install && npm run seed || true && npm run dev"
+    volumes:
+      - ./server:/app:delegated
+      - server_node_modules:/app/node_modules
+    ports:
+      - "3001:3001"
     environment:
       PORT: 3001
       DB_HOST: db
@@ -36,28 +41,27 @@ services:
       DB_PASSWORD: ${MYSQL_PASSWORD:-portalpass}
       DB_NAME: ${MYSQL_DATABASE:-parques_inovacao}
       ADMIN_PASSWORD: ${ADMIN_PASSWORD:-admin123}
-    command: sh -c "npm run seed || true; node server.js"
-    networks:
-      - npm
-    expose:
-      - "3001"
+    depends_on:
+      db:
+        condition: service_healthy
 
   web:
-    build:
-      context: ./client
-      dockerfile: Dockerfile
-    container_name: portal-inovacao-web
+    image: node:20-alpine
+    container_name: portal-inovacao-web-dev
+    working_dir: /app
     restart: unless-stopped
+    command: sh -c "npm install && npm run dev -- --host 0.0.0.0"
+    volumes:
+      - ./client:/app:delegated
+      - client_node_modules:/app/node_modules
+    ports:
+      - "5173:5173"
+    environment:
+      VITE_API_PROXY_TARGET: ${VITE_API_PROXY_TARGET:-http://api:3001}
     depends_on:
       - api
-    networks:
-      - npm
-    expose:
-      - "80"
 
 volumes:
   mysql-data:
-
-networks:
-  npm:
-    external: true
+  server_node_modules:
+  client_node_modules:
